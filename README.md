@@ -1,4 +1,4 @@
-# Dependency-Inversion
+# DependencyInversion
 The NEU Library offers a variety of resources, including books, theses, capstones, internet access, journals, and newspapers.
 
 Currently, the Student object has methods like borrowBook(), borrowJournal() with a parameter of title, which directly depend on specific resource types.
@@ -11,4 +11,4 @@ Create a repository in your GitHub account. Put your solution there. In the read
 
 Make sure you have a TestProgram that will validate the proposed refactored codes.
 
-![alt text](image-1.png)
+![alt text](DIP.png)

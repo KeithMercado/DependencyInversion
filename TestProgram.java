@@ -1,6 +1,6 @@
 public class TestProgram {
     public static void main(String[] args) {
-        Student student = new Student("Name");
+        Student student = new Student("John Keith");
         Book book = new Book("Introduction to Java");
         Journal journal = new Journal("Computer Science Journal");
 
